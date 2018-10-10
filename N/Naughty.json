@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "Naughty",
     "definitions": [
@@ -5,4 +6,13 @@
         "Indecent; improper"
     ],
     "parts-of-speech": "adjective"
+=======
+{
+    "word": "Naughty",
+    "definitions": [
+        "Behaving disobediently or mischievously",
+        "Indecent; improper"
+    ],
+    "parts-of-speech": "adjective"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

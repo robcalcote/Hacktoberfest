@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "word": "Impatient",
   "definitions": [
@@ -5,3 +6,12 @@
   ],
   "parts-of-speech": "Noun"
 }
+=======
+{
+  "word": "Impatient",
+  "definitions": [
+    "annoyed because of delays, someone else’s mistakes etc"
+  ],
+  "parts-of-speech": "Noun"
+}
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389

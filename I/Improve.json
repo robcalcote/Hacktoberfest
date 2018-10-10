@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
   "word": "Improve",
   "definitions": [
     "to make something better, or to become better"
   ],
   "parts-of-speech": "Noun"
+=======
+{
+  "word": "Improve",
+  "definitions": [
+    "to make something better, or to become better"
+  ],
+  "parts-of-speech": "Noun"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

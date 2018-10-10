@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "Qualify",
     "definitions": [
@@ -7,3 +8,14 @@
     ],
     "parts-of-speech": "Verb"
 }
+=======
+{
+    "word": "Qualify",
+    "definitions": [
+        "Be entitled to a particular benefit or privilege by fulfilling a necessary condition.",
+        "Become officially recognized as a practitioner of a particular profession or activity, typically by undertaking a course and passing examinations.",
+        "Make (a statement or assertion) less absolute; add reservations to.",
+    ],
+    "parts-of-speech": "Verb"
+}
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389

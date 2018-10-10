@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"word":"Knell",
 	"definitions":[
@@ -6,3 +7,13 @@
 	],
 	"parts-of-speech": "Verb"
 }
+=======
+{
+	"word":"Knell",
+	"definitions":[
+		"a stroke or sound of a bell especially when rung slowly (as for a death, funeral or disaster)",
+		"an indication of the end or the failure of something"
+	],
+	"parts-of-speech": "Verb"
+}
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389

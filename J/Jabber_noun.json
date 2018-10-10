@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "word": "jabber",
     "definitions": [
         "Rapid, excited, and often incomprehensible speech."
     ],
     "parts-of-speech": "noun"
+=======
+{
+    "word": "jabber",
+    "definitions": [
+        "Rapid, excited, and often incomprehensible speech."
+    ],
+    "parts-of-speech": "noun"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

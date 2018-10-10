@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "word": "Rank",
     "definitions": [
       "to arrange in lines or in a regular formation"
     ],
     "parts-of-speech": "Verb"
+=======
+{
+    "word": "Rank",
+    "definitions": [
+      "to arrange in lines or in a regular formation"
+    ],
+    "parts-of-speech": "Verb"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
   }

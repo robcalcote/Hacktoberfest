@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "affinity",
     "definitions": [
@@ -6,3 +7,13 @@
     ],
     "parts-of-speech": "noun"
 }
+=======
+{
+    "word": "affinity",
+    "definitions": [
+        "An attraction or force between particles or chemicals that causes them to combine",
+        " Biology A relationship or resemblance in structure between species that suggests a common origin."
+    ],
+    "parts-of-speech": "noun"
+}
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389

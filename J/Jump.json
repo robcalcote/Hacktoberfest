@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "Jump",
     "definitions": [
@@ -7,3 +8,14 @@
     ],
     "parts-of-speech": "verb"
 }
+=======
+{
+    "word": "Jump",
+    "definitions": [
+        "to move suddenly or involuntarily  ",
+        "to spring into the air"
+        "to start out or forward"
+    ],
+    "parts-of-speech": "verb"
+}
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389

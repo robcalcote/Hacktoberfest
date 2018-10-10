@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "word": "Ideology",
   "definitions": [
@@ -5,4 +6,13 @@
     "a situation that is impossible is one that you cannot deal with"
   ],
   "parts-of-speech": "Noun"
+=======
+{
+  "word": "Ideology",
+  "definitions": [
+    "something that is impossible cannot happen or be done",
+    "a situation that is impossible is one that you cannot deal with"
+  ],
+  "parts-of-speech": "Noun"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

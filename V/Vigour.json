@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "word": "Vigour",
   "definitions": [
@@ -5,4 +6,13 @@
       "strength of thought, opinion, expression, etc"
   ],
   "parts-of-speech": "Noun"
+=======
+{
+  "word": "Vigour",
+  "definitions": [
+      "​strength, energy, or enthusiasm",
+      "strength of thought, opinion, expression, etc"
+  ],
+  "parts-of-speech": "Noun"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

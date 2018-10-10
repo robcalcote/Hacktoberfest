@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "Eloquent",
     "definitions": [
@@ -5,4 +6,13 @@
         "clearly expressing or indicating something."
     ],
     "parts-of-speech": "Adjective"
+=======
+{
+    "word": "Eloquent",
+    "definitions": [
+        "fluent or persuasive in speaking or writing.",
+        "clearly expressing or indicating something."
+    ],
+    "parts-of-speech": "Adjective"
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
 }

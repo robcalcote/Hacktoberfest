@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "word": "curiosity",
     "definitions": [
@@ -6,3 +7,13 @@
     ],
     "parts-of-speech": "Noun"
   }
+=======
+{
+    "word": "curiosity",
+    "definitions": [
+        "A desire to know or learn",
+        "A desire to know about people or things that do not concern one; nosiness."
+    ],
+    "parts-of-speech": "Noun"
+  }
+>>>>>>> d8be50f1e7ea32ace417d16fce84f967f97d7389
